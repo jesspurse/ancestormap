@@ -20,4 +20,4 @@ Then, you have one CSV file with birth year, birth lat and long, death year, and
 
 It's time for the SAS. This will go from one CSV with a line for each person to multiple CSVs - one for each year with everyone alive in that year and their location. See ancestorscsv.png and ancestors_942csv.png
 
-Now, it's python time! Make sure cartopy is installed. First, you'll use creates_images. THen, you'll put creates_movie in the same folder as the images and run that - et voila, you'll have your ancestry map movie!
+Now, it's python time! Make sure cartopy is installed. First, you'll use creates_images.py. Then, you'll put creates_movie.py in the same folder as the images and run that - et voila, you'll have your ancestry map movie!
