@@ -1,5 +1,4 @@
 # ancestormap
-How I made my ancestor map
 
 This was a long, long process that build off of work done by Ugluk4242 (https://github.com/Ugluk4242/GEDCOM_MAPPING, https://www.reddit.com/r/dataisbeautiful/comments/t8mw6z/oc_tracking_my_ancestors_migrations_with_400/?utm_source=share&utm_medium=web2x&context=3) and Yannick Brouwer (https://github.com/yannickbrouwer/ancestors-migration-visualization, https://yannickbrouwer.medium.com/visualizing-my-ancestry-on-a-map-7af6a2354db0)
 
@@ -9,7 +8,7 @@ This was a long, long process that build off of work done by Ugluk4242 (https://
 
 I combined parts of both. First, I put my ancestors into myheritage.com and went back as far as I could possibly go based on verifiable records. Lots of census records, lots of wikipedia, trusting some other people's research.
 
-THen I downloaded myheritage's app Family Tree Builder and synce my account to it. See fam_tree.png, fam_tree_export.png (choose birth and death), and fam_tree_csv.png.
+Then I downloaded myheritage's app Family Tree Builder and synce my account to it. See fam_tree.png, fam_tree_export.png (choose birth and death), and fam_tree_csv.png.
 
 Keep Gender, First Name, Last Name, Birth Date, Birth Place, Death Date, and Death Place.
 
